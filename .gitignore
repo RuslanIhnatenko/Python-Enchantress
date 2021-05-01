@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-.idea/Python-Enchantress.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+    .idea/Python-Enchantress.iml
+    .idea/inspectionProfiles/profiles_settings.xml
+    .idea/misc.xml
+    .idea/modules.xml
+    .idea/vcs.xml
